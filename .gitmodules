@@ -1,3 +1,6 @@
 [submodule "SurLesPasDeMontfort-partie-Android"]
 	path = SurLesPasDeMontfort-partie-Android
 	url = https://github.com/Quilo/SurLesPasDeMontfort-partie-Android.git
+[submodule "SurLesPasDeMonfort_web"]
+	path = SurLesPasDeMonfort_web
+	url = https://github.com/Auzeuze13/SurLesPasDeMonfort_web.git
